@@ -17,7 +17,7 @@
        <div class="row no-gutters bg-dark">
            <div class="col-xl-5 col-lg-12 register-bg">
             <div class="position-absolute testiomonial p-4">
-                <h3 class="font-weight-bold text-light">La siguiente revolución digital.</h3>
+                <h3 class="font-weight-bold text-light">La PRÓXIMA revolución digital.</h3>
                 <p class="lead text-light">La nueva etapa de la revolución digital se aproxima.</p>
             </div>
            </div>
