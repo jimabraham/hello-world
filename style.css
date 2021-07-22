@@ -1,0 +1,33 @@
+:root
+{
+    --color-dark: #15181f;
+    --color-dark-x: #2d343f;
+    --color-dark-xx: #1f232b;
+    --color-light: #ffffff;
+    --color-grey: #f5f6f8;
+}
+body
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 300;
+    background-color: var(--color-grey);
+    color: var(--color-light);
+    letter-spacing: .05rem;
+}
+.bg-light
+{
+    background-color: var(--color-light)!important;
+}
+.bg-dark
+{
+    background-color: var(--color-dark);
+}
+.p-6
+{
+    padding: 4rem 7rem;
+}
+.contact-box
+{
+    padding: 3;
+}
